@@ -1,0 +1,27 @@
+CRUD Questions!
+1. Using cyberclub_db database, what is the most slippery secret_code_name?
+
+2. Using cyberclub_db database, what two secret_code_name have the same threat_level?
+
+3. What is the hidden flag?
+
+
+Clauses Questions!
+3. Using cyberclub_db database, what is the total number of destinct categories in super_secret_table table?
+
+4. Using cyberclub_db database, what is the first item (by name) in ascending order from super_secret_table table?
+
+5. Using cyberclub_db database, what is the first item (by name) in descending order from super_secret_table table?
+
+
+Operators Questions!
+6. Using cyberclub_db database, what are the threat_level greater than or equal to 95?
+
+7. Using cyberclub_db database, what are the threat_level less than 25?
+
+
+Function Questions!
+8. Using cyberclub_db database, what is the longest secret name by character length and how many charaters is it?
+
+9. Using cyberclub_db database, what is the total sum of all the threat_level?
+
